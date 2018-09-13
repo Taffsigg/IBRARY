@@ -14,6 +14,7 @@ for now the website has:
       -classic homepage
              
 enhancements:
+
     -community or blog can be added for learners to ask questions.
 
     -payments page can be added 
